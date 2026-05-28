@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcpdate",
+        "uuid": 10492860,
+        "checksum": "54oe64"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
